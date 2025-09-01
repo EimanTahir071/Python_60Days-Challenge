@@ -1,4 +1,4 @@
-# Python-60Days-Challenge
+ # Python-60Days-Challenge
 
 ## A TO Z Glossary For python:<br/>
 [Download the manual](docs/A+to+Z+Glossary.pdf)
