@@ -5,7 +5,8 @@
 
 ## -DAY 1:
 
-![Alt text for accessibility](images/day1.PNG)
+![DAY 1](images/day1.PNG)
+![DAY 2](images/day2.PNG)
 
 
 
