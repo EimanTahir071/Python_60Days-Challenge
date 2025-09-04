@@ -17,6 +17,8 @@
 ![DAY 6](images/day6.PNG)
 ## -DAY 7:
 ![DAY 7](images/day7.PNG)
+## -DAY 8:
+![DAY 8](images/day8.PNG)
 
 
 
